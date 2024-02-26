@@ -1,4 +1,4 @@
-## 0.4.2
+## 0.4.3
 - Support battlepass 14 - Airborne General
 
 ## 0.4.2
